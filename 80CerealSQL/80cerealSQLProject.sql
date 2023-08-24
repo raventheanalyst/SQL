@@ -2,7 +2,7 @@ USE kaggle;
 SELECT * FROM kaggle.cereal;
 -- SQL Safe Mode because we are about to update and delete part of our table. 
 SET SQL_SAFE_UPDATES = 0;
--- Delete first column in our table because it is unnecesary and will affect calculations later on
+-- Delete first row in our table because it is unnecesary and will affect calculations later on
 DELETE FROM cereal WHERE name = 'String';
 -- Check to see if first column was deleted
 SELECT * FROM kaggle.cereal;
