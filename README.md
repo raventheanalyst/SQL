@@ -41,7 +41,7 @@
 <h3>Projects</h3>
 <p>Here's a list of projects included in this repository:</p>
 <p></p>
-<p>1. [80 Cereal] (                )  - A fun data analysis project on gaining insights and analyzing a dataset of 80 different cereals from 7 manufacturers containing data about customer ratings and nutrient groups. If you’re a cereal lover, beware! </p>
+<p>1. 80Cereals (                )  - A fun data analysis project on gaining insights and analyzing a dataset of 80 different cereals from 7 manufacturers containing data about customer ratings and nutrient groups. If you’re a cereal lover, beware! </p>
 <p></p>
 <p>(to be continued).. </p>
 </body>
