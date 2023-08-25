@@ -33,3 +33,16 @@
 <p>In this repository, I dive into SQL to manipulate, explore, and analyze data from datasets that unravel real-world business problems and datasets that, well, are just pretty damn interesting. These projects involve me writing complex queries and deriving meaningful insights. From simple aggregations to more advanced joins and subqueries. My aim is to showcase my proficiency in SQL and its application in solving real-world problems. SQL isn’t going anywhere… Don’t let anyone tell you differently 😉 </p>
 </body>
 </html>
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h3>Projects</h3>
+<p>Here's a list of projects included in this repository:</p>
+<p></p>
+<p>1. [80 Cereal] (                )  - A fun data analysis project on gaining insights and analyzing a dataset of 80 different cereals from 7 manufacturers containing data about customer ratings and nutrient groups. If you’re a cereal lover, beware! </p>
+<p></p>
+<p>(to be continued).. </p>
+</body>
+</html>
