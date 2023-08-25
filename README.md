@@ -16,12 +16,12 @@
 </head>
 <body>
 <h3>Table of Contents</h3>
-<p>Introduction]</p>
-<p> •Projects]</p>
-<p> •Folder Structure]</p>
-<p> •Getting Started]</p>
-<p> •Technologies Used]</p>
-<p> •Contact] </p>
+<p>Introduction</p>
+<p> •Projects</p>
+<p> •Folder Structure</p>
+<p> •Getting Started</p>
+<p> •Technologies Used</p>
+<p> •Contact </p>
 </body>
 </html>
 <!DOCTYPE html>
