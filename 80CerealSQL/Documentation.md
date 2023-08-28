@@ -86,5 +86,14 @@
 <p></p>
 </body>
 </html>
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+<h3>Acknowledgements</h3>
+<p>This dataset has been gathered and cleaned by Petra Isenberg, Pierre Dragicevic, and Yvonne Jansen. The OG source can be found here https://perso.telecom-paristech.fr/eagan/class/igr204/datasets.</p>
+</body>
+</html>
+
 
   
