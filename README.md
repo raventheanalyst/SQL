@@ -49,4 +49,18 @@
 <p></p>
 </body>
 </html>
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h3>Folder Structure</h3>
+<p>The repository is structured as follows:</p>
+<p></p>
+<p>- 80Cereals: Contains </p>
+<p>- 'project-2': </p>
+<p>-'...'</p>
+</body>
+</html>
+
 
