@@ -22,15 +22,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<!-- HTML Codes by Quackit.com -->
-<title>
-</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body {background-color:#ffffff;background-repeat:no-repeat;background-position:top left;background-attachment:fixed;}
-h3{font-family:Arial, sans-serif;color:#000000;background-color:#ffffff;}
-p {font-family:Georgia, serif;font-size:14px;font-style:normal;font-weight:normal;color:#000000;background-color:#ffffff;}
-</style>
 </head>
 <body>
 <h3>Data Dictionary </h3>
@@ -54,17 +45,6 @@ p {font-family:Georgia, serif;font-size:14px;font-style:normal;font-weight:norma
 <p> </p>
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-  
 <!DOCTYPE html>
 <html>
 <head>
@@ -91,6 +71,18 @@ p {font-family:Georgia, serif;font-size:14px;font-style:normal;font-weight:norma
 <p>•  Nutrient Correlation - While a direct correlation is not evident, it appears that cereals with higher protein content per serving might be associated with higher grams of fat. </p>
 <p>•  Among all the cereals in the dataset, Golden Crisps and Smacks have the highest sugar content per serving at 15g. 
 <p></p>
+<p></p>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+<h3>Limitations </h3>
+<p>- Dataset only had 77 different cereals and not 80</p>
+<p>- Not sure where the data from the Ratings field came from</p>
+<p>- Finding out which shelf location is the best was challenging. Different sources somewhat say different things. </p>
+<p>- Ran into problems getting MIN and MAX calories. Using the ORDER BY MIN(calories) DESC, the results were still out of order. A quick fix would be MIN(calories) + 0 DESC but that would only be a temporary fix. The actual problem is that all columns in the table are set to TEXT and not their appropriate data type. We try to modify the datatype but run into an error. The first row seems to be a data type that has been written in. Although it helps us with which columns should have what data types, it’s unnecessary. We need to delete it. Since we are about to update or delete records, we need to make sure our Safe Updates are set to 0 so we can in fact delete that unnecessary row. To do this I used SQL_SAFE_UPDATES = 0; Now we can go ahead and delete that first row. After this we will be able to assign appropriate data types to each column with no error.</p>
 <p></p>
 </body>
 </html>
