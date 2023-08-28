@@ -22,6 +22,52 @@
 <!DOCTYPE html>
 <html>
 <head>
+<!-- HTML Codes by Quackit.com -->
+<title>
+</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {background-color:#ffffff;background-repeat:no-repeat;background-position:top left;background-attachment:fixed;}
+h3{font-family:Arial, sans-serif;color:#000000;background-color:#ffffff;}
+p {font-family:Georgia, serif;font-size:14px;font-style:normal;font-weight:normal;color:#000000;background-color:#ffffff;}
+</style>
+</head>
+<body>
+<h3>Data Dictionary </h3>
+<p>Fields in dataset:</p>
+<p>•  Name: name of cereal</p>
+<p>• mfr: manufacturer of cereal. (A = American Home Food Products, G = General Mills, K = Kellogg, N = Nabisco, P = Post, Q = Quaker Oats, R = Ralston Purina)</p>
+<p>• Type = cold or hot</p>
+<p>• Calories = calories per serving</p>
+<p>• Protein = protein grams per serving</p>
+<p>• Fat = grams per fat</p>
+<p>• Sodium = milligrams of sodium</p>
+<p>• Fiber = grams of dietary fiber</p>
+<p>• Carbo = grams of complex carbohhydrates</p>
+<p>• Sugars = grams of sugar</p>
+<p>• Potass = milligrams of potassium</p>
+<p>• Vitamins = vitmains and minerals - 0, 25, or 100, indicating the typical percentage of FDA recommended </p>
+<p>•  Shelf = display shelf (1, 2, or 3, counting from the floor)</p>
+<p>• Weight = weight in ounces of one serving</p>
+<p>• Cups = number of cups in one serving</p>
+<p>• Rating = a rating of the cereals (possibly from Consumer reports)</p>
+<p> </p>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+  
+<!DOCTYPE html>
+<html>
+<head>
 </head>
 <body>
 <h3>Summary of Findings </h3>
