@@ -71,6 +71,16 @@
 <p>To explore any of the projects, navigate to the respective project folder and follow the README instructions provided within that folder. The README will guide you through the project's context, dataset, SQL queries, findings, recommendations, and limitations. </p>
 </body>
 </html>
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h3>Technologies Used </h3>
+<p>- SQL: For querying, manipulating, and analyzing datasets</p>
+<p>- The DBMS used is MySQL</p>
+</body>
+</html>
 
 
 
