@@ -8,3 +8,14 @@
 <p></p>
 </body>
 </html>
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+<h3>Details </h3>
+<p>Dataset - https://www.kaggle.com/datasets/crawford/80-cereals</p>
+<p>Tools Used - Kaggle, MySQL</p>
+<p></p>
+<p></p>
+</body>
+</html>
