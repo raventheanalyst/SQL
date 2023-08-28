@@ -57,7 +57,7 @@
 <h3> 🛠️ Folder Structure</h3>
 <p>The repository is structured as follows:</p>
 <p></p>
-<p>- 80Cereals: Contains </p>
+<p>- 80Cereals: Contains SQL script file where I did my analysis on the dataset. Also contains documentation.md file (context, data dictionary, summary of findings, limitation, acknowledgement) </p>
 <p>- 'project-2': </p>
 <p>-'...'</p>
 </body>
