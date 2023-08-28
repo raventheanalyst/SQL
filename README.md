@@ -62,5 +62,15 @@
 <p>-'...'</p>
 </body>
 </html>
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h3>Getting Started</h3>
+<p>To explore any of the projects, navigate to the respective project folder and follow the README instructions provided within that folder. The README will guide you through the project's context, dataset, SQL queries, findings, recommendations, and limitations. </p>
+</body>
+</html>
+
 
 
