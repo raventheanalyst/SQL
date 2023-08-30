@@ -90,7 +90,7 @@
 <p>If you have any questions, suggestions, or would like to connect, feel free to reach out to me"</p>
 <p></p>
 <p>- Email: ravenjanaya@gmail.com mailto:ravenjanaya@gmail.com</p>
-<p>- Github: RavenTheAnalyst https://github.com/raventheanalyst/SQL</p>
+<p>- Github: RavenTheAnalyst https://github.com/raventheanalyst/</p>
 <p>-LinkedIn: Connect With Me! https://www.linkedin.com/in/ravenjballard/</p>
 <p></p>
 <p> 🎉Thank you for visiting my SQL Data Analysis Projects repository! </p>
