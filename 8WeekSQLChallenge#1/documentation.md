@@ -32,6 +32,21 @@
 <head>
 </head>
 <body>
+<h3>SQL Concepts and Functions Used: </h3>
+<p>• Creating Tables</p>
+<p>• Multiple Table Joins</p>
+<p>• CONCAT</p>
+<p>• Window Functions for Ranking (Dense_Rank, Row_Number)</p>
+<p>• Subquerries</p>
+<p>• CASE </p>
+<p>• Group By Aggregates</p>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
 <h3>Case Study Questions </h3>
 <p>1. What is the total amount each customer spent at the restaurant?</p>
 <p>2. How many days has each customer visited the restaurant? </p>
