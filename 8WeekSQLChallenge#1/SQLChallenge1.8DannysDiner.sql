@@ -132,4 +132,23 @@ ELSE price * 10 END AS points
 FROM sales as s JOIN menu as M
 ON s.product_id = m.product_id) temp_table4
 GROUP BY customer;
+
+-- 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items,
+-- not just sushi — how many points do customer A and B have at the end of January?
+SELECT customer, SUM(total_points) as total_points
+FROM 
+(SELECT s.customer_id customer, m.product_name, s.order_date, 
+CASE WHEN s.order_date < (mem.join_date + 7) THEN m.price * 20
+ELSE m.price * 10 END AS total_points
+FROM menu m JOIN sales s 
+ON s.product_id = m.product_id
+JOIN members as mem
+ON mem.customer_id = s.customer_id 
+WHERE mem.join_date < s.order_date AND month(s.order_date) = 1
+ORDER BY customer, s.order_date) temp_table5
+GROUP BY customer
+ORDER BY customer; 
+
+
+
   
