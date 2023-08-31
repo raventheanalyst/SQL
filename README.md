@@ -41,7 +41,7 @@
 <h3> 💡Projects</h3>
 <p>Here's a list of projects included in this repository:</p>
 <p></p>
-<p>1. [80 Cereal] [80CerealProject](https://github.com/raventheanalyst/SQL/tree/main/80CerealSQL)  - A fun data analysis project on gaining insights and analyzing a dataset of 80 different cereals from 7 manufacturers containing data about customer ratings and nutrient groups. If you’re a cereal lover, beware! </p>
+<p>1. <strong>[80 Cereal</strong>  - A fun data analysis project on gaining insights and analyzing a dataset of 80 different cereals from 7 manufacturers containing data about customer ratings and nutrient groups. If you’re a cereal lover, beware! </p>
 <p></p>
 <p>2. [8 Week SQL Challenge: Case Study #1 - Danny's Diner] - A SQL case study project created by Danny Ma. First of 8 projects. The goal is to use SQL queries to answer questions about customer spending, visitation, and menu items. </p>
 <p></p>
