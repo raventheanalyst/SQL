@@ -43,7 +43,7 @@
 <p></p>
 <p>1. [80 Cereal] (                )  - A fun data analysis project on gaining insights and analyzing a dataset of 80 different cereals from 7 manufacturers containing data about customer ratings and nutrient groups. If you’re a cereal lover, beware! </p>
 <p></p>
-<p>(to be continued).. </p>
+<p> [8 Week SQL Challenge: Case Study #1 - Dann'y Diner - A SQL case study project created by Danny Ma. First of 8 projects. The goal is to use SQL queries to answer questions about customer spending, visitation, and menu items. </p>
 <p></p>
 <p>Feel free to explore each project folder to learn more about the datasets used, the SQL queries written, and the conclusions drawn.</p>
 <p></p>
@@ -58,7 +58,7 @@
 <p>The repository is structured as follows:</p>
 <p></p>
 <p>- 80Cereals: Contains SQL script file where I did my analysis on the dataset. Also contains documentation.md file (context, data dictionary, summary of findings, limitation, acknowledgement) </p>
-<p>- 'project-2': </p>
+<p>- 8WeekSQLChanellege1Danny'sDiner': Contains SQL script file where I made my queries. Also contains documentation.md file (background and problem statement, SQL concepts and functions used, case study questions) </p>
 <p>-'...'</p>
 </body>
 </html>
@@ -89,7 +89,7 @@
 <h3> :phone: Contact</h3>
 <p>If you have any questions, suggestions, or would like to connect, feel free to reach out to me"</p>
 <p></p>
-<p>- Email: ravenjanaya@gmail.com mailto:ravenjanaya@gmail.com</p>
+<p>- Email: ravenjanaya@gmail.com 
 <p>- Github: RavenTheAnalyst https://github.com/raventheanalyst/</p>
 <p>-LinkedIn: Connect With Me! https://www.linkedin.com/in/ravenjballard/</p>
 <p></p>
