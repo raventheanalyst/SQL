@@ -15,20 +15,6 @@
 <head>
 </head>
 <body>
-<h3> 📝 Table of Contents</h3>
-<p> • Introduction</p>
-<p> • Projects</p>
-<p> • Folder Structure</p>
-<p> • Getting Started</p>
-<p> • Technologies Used</p>
-<p> • Contact </p>
-</body>
-</html>
-<!DOCTYPE html>
-<html>
-<head>
-</head>
-<body>
 <h3> 📢 Introduction </h3>
 <p>In this repository, I dive into SQL to manipulate, explore, and analyze data from datasets that unravel real-world business problems and datasets that, well, are just pretty damn interesting. These projects involve me writing complex queries and deriving meaningful insights. From simple aggregations to more advanced joins and subqueries. My aim is to showcase my proficiency in SQL and its application in solving real-world problems. SQL isn’t going anywhere… Don’t let anyone tell you differently 😉 </p>
 </body>
@@ -59,7 +45,7 @@
 <p></p>
 <p>- 80Cereals: Contains SQL script file where I did my analysis on the dataset. Also contains documentation.md file (context, data dictionary, summary of findings, limitation, acknowledgement) </p>
 <p>- 8WeekSQLChanellege1Danny'sDiner': Contains SQL script file where I made my queries. Also contains documentation.md file (background and problem statement, SQL concepts and functions used, case study questions) </p>
-<p>-'...'</p>
+<p>-'American Citizens Annual Income: Contains SQL script file, documentation.md file, PowerBI dashboard file'</p>
 </body>
 </html>
 <!DOCTYPE html>
