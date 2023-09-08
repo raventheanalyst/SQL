@@ -1,2 +1,2 @@
-![Screenshot (1)](https://github.com/raventheanalyst/SQL/assets/128438737/cc73de30-47e4-4eeb-8cb0-e4149c32c65b)
+![Screenshot (2)](https://github.com/raventheanalyst/SQL/assets/128438737/fa8e07c2-94e5-4e27-9162-98abba2d1697)
 
